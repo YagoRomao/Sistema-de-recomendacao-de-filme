@@ -13,7 +13,7 @@ Projeto desenvolvido junto ao Victor Barros do Método Voyager. <br><br/>
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">&nbsp;&nbsp;&nbsp
   <img alt="Status" src="http://img.shields.io/static/v1?label=STATUS&message=under%20development&color=yellow&labelColor=000000&style=flat"/>&nbsp;&nbsp;&nbsp
-  <img alt="Update" src="http://img.shields.io/static/v1?label=Last%20Update&message=today&color=blue&labelColor=000000&style=flat"/>&nbsp;&nbsp;&nbsp
+  <!-- <img alt="Update" src="http://img.shields.io/static/v1?label=Last%20Update&message=today&color=blue&labelColor=000000&style=flat"/>&nbsp;&nbsp;&nbsp -->
 </p>
 
 <br><br/>
